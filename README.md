@@ -8,3 +8,7 @@ Stopped at missing values.
 16/09/2020
 Finished reading the first 2 official guiding chapters.
 Still need to review and try to memorize and use more.
+
+18/09/2020
+Finished feature engineering (chap 3).
+Have to review all the knowledge after finishing reading this project guide.
