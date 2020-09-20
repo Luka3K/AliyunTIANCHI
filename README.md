@@ -3,6 +3,8 @@ open-sourced procedures of joining ML competions on Aliyun TIANCHI
 
 1. The first project is about the financial risk control -- Loans Default Forecast
 I started this project on 15/09/2020, and I hope to learn something useful.
+
+15/09/2020
 Stopped at missing values.
 
 16/09/2020
@@ -16,3 +18,5 @@ Have to review all the knowledge after finishing reading this project guide.
 20/09/2020
 Forgot to read carefully, so the 4th chap needs to conduct feature engineering according to baseline.
 Must finish this chap tomorrow.
+And I think this procedure needs to be ignored, because there is no 'sample', and I can just choose a certain/easy way to complete feature engineering, because my purpose in this chap is to realize model constrcution and parameter adjustment after all.
+
