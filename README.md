@@ -12,3 +12,7 @@ Still need to review and try to memorize and use more.
 18/09/2020
 Finished feature engineering (chap 3).
 Have to review all the knowledge after finishing reading this project guide.
+
+20/09/2020
+Forgot to read carefully, so the 4th chap needs to conduct feature engineering according to baseline.
+Must finish this chap tomorrow.
