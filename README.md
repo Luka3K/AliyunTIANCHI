@@ -20,3 +20,7 @@ Forgot to read carefully, so the 4th chap needs to conduct feature engineering a
 Must finish this chap tomorrow.
 And I think this procedure needs to be ignored, because there is no 'sample', and I can just choose a certain/easy way to complete feature engineering, because my purpose in this chap is to realize model constrcution and parameter adjustment after all.
 
+22/09/2020
+Yesterday, I finished chap4 and I completed the whole procedure today, but I didn't output the result file because I still want to conduct Xgboost which has cost so much time and forced me to give it up tonight. Maybe I can try to output tomorrow and review this project.
+So there are still some problems remained. First, how to adjust parameters in the model? Second, what's the logic and intuition of the model? Third, need to learn the details in feature engineering.
+
