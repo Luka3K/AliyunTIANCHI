@@ -26,3 +26,6 @@ So there are still some problems remained. First, how to adjust parameters in th
 
 25/09/2020
 Finally, I submitted my first outcome based on the tutorial using lgb model. Maybe the result is not good enough, but I believe I will make progress in the future. The most important point is the tutorial has formed a function and the function returns the final result. So I counld't save the model using pickle or joblib (both are from sklearn library, see https://www.cnblogs.com/Allen-rg/p/9548539.html for more details). I think I also need to pay attention to this problem in the future. Maybe I should try to overwrite the function and make the function return the model as well.
+The score is not high (0.7256). The highest score so far is 0.7463, and the no.100 is 0.7296)(0:16 26/09/2020). And I think I still need to use more models, try different models like xgb and so on. I also need to try to adjust the parameters. Btw, I think maybe I should not use cross-validation during parameters adjustment to improve the efficiency and the speed.
+That's all for today. Still need to learn to use more models and adjust the parameters. And most importantly, review all that I've learnt.
+
