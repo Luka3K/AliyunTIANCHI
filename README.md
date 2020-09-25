@@ -24,3 +24,5 @@ And I think this procedure needs to be ignored, because there is no 'sample', an
 Yesterday, I finished chap4 and I completed the whole procedure today, but I didn't output the result file because I still want to conduct Xgboost which has cost so much time and forced me to give it up tonight. Maybe I can try to output tomorrow and review this project.
 So there are still some problems remained. First, how to adjust parameters in the model? Second, what's the logic and intuition of the model? Third, need to learn the details in feature engineering.
 
+25/09/2020
+Finally, I submitted my first outcome based on the tutorial using lgb model. Maybe the result is not good enough, but I believe I will make progress in the future. The most important point is the tutorial has formed a function and the function returns the final result. So I counld't save the model using pickle or joblib (both are from sklearn library, see https://www.cnblogs.com/Allen-rg/p/9548539.html for more details). I think I also need to pay attention to this problem in the future. Maybe I should try to overwrite the function and make the function return the model as well.
