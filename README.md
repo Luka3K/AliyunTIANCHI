@@ -29,3 +29,8 @@ Finally, I submitted my first outcome based on the tutorial using lgb model. May
 The score is not high (0.7256). The highest score so far is 0.7463, and the no.100 is 0.7296)(0:16 26/09/2020). And I think I still need to use more models, try different models like xgb and so on. I also need to try to adjust the parameters. Btw, I think maybe I should not use cross-validation during parameters adjustment to improve the efficiency and the speed.
 That's all for today. Still need to learn to use more models and adjust the parameters. And most importantly, review all that I've learnt.
 
+30092020
+Today, I started to run the model on kaggle notebook, which makes the whole process much faster.
+And I finally find out how to compute the average of columns with nan, just remember not to reduce memory before filling nans.
+Tomorrow I need to do more feature engineering to get a better result with higher accuracy!
+
