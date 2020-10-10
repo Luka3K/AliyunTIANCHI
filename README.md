@@ -34,3 +34,5 @@ Today, I started to run the model on kaggle notebook, which makes the whole proc
 And I finally find out how to compute the average of columns with nan, just remember not to reduce memory before filling nans.
 Tomorrow I need to do more feature engineering to get a better result with higher accuracy!
 
+10/10/2020
+What I need to do is to consider if every feature is valid, and try to remove some useless ones like id, etc.
