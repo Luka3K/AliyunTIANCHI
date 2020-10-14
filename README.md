@@ -39,3 +39,4 @@ What I need to do is to consider if every feature is valid, and try to remove so
 
 15/10/2020
 I think what I want to do essentially is to select features. There are several different methods of selection, so the first step is think whether the features may cause impact on the result, the second thing is to calculate the relationship to verify the hypothesis in the first step.
+Reviewing EDA and trying to get some new intuition!
